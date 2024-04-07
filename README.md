@@ -19,7 +19,3 @@ This is a C# application developed in Visual Studio using .NET Core and xUnit te
 2. Open the solution in Visual Studio or any other preferred IDE.
 3. Build and run the application.
 4. Enjoy the functionality of parsing CSV data and calculating geolocation distances!
-
-
-## License
-This project is licensed under the [MIT License]
